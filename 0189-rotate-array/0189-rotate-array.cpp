@@ -1,14 +1,21 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        vector<int> ans(nums.size());
-        // This is done because ans ka random index par value insert ho ge from nums array.
-        for(int i = 0;i<nums.size();i++) {
-            int index = (i+k)%nums.size();
-            ans[index] = nums[i];
+        int d = k%nums.size();
+
+        vector<int> temp;
+
+        for(int i = nums.size()-d;i<nums.size();i++) {
+            temp.push_back(nums[i]);
         }
-        // nums.clear();
-        // Nums ke andr change karna hao kue naya array nhi bana
-        nums = ans;
+
+        for(int i = nums.size()-d-1;i >= 0;i--) {
+            nums[i+d] = nums[i];
+        }
+
+        for(int i = 0;i<temp.size();i++) {
+            nums[i] = temp[i];
+        }
+
     }
 };
