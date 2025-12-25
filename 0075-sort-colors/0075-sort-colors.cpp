@@ -7,17 +7,16 @@ public:
 
         while(i <= right) {
             if(nums[i] == 0) {
-                swap(nums[left],nums[i]);
+                swap(nums[i],nums[left]);
                 left++;
-            } 
+            }
             else if(nums[i] == 2) {
                 swap(nums[i],nums[right]);
                 right--;
                 i--;
             }
-            i++;
+                i++;
         }
-
 
     }
 };
