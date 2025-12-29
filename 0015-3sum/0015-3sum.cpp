@@ -3,7 +3,7 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
 
         vector<vector<int>> finalans;
-        sort(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end());   // always remember this because yha par hum two pointer approach laga rh hai
 
         for(int i = 0;i<nums.size();i++) {
             int left = i+1;
