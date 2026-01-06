@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/codeurge123/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/codeurge123/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/codeurge123/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/codeurge123/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/codeurge123/leetcodePractice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/codeurge123/leetcodePractice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/codeurge123/leetcodePractice/tree/master/0189-rotate-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/codeurge123/leetcodePractice/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/codeurge123/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/codeurge123/leetcodePractice/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
