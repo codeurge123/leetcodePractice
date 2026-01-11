@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/codeurge123/leetcodePractice/tree/master/1390-four-divisors) |
 | [1837-sum-of-digits-in-base-k](https://github.com/codeurge123/leetcodePractice/tree/master/1837-sum-of-digits-in-base-k) |
+| [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/codeurge123/leetcodePractice/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/codeurge123/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/codeurge123/leetcodePractice/tree/master/0125-valid-palindrome) |
+| [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/codeurge123/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/codeurge123/leetcodePractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codeurge123/leetcodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
