@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/codeurge123/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/codeurge123/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/codeurge123/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/codeurge123/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/codeurge123/leetcodePractice/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/codeurge123/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/codeurge123/leetcodePractice/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/codeurge123/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
 ## Divide and Conquer
 |  |
