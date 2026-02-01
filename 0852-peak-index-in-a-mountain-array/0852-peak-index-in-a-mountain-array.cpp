@@ -12,7 +12,7 @@ public:
             }
 
             else if(arr[mid] < arr[mid+1]) {
-                s = mid+1;
+                s = mid;
             }
 
             else if(arr[mid] < arr[mid-1]) {
