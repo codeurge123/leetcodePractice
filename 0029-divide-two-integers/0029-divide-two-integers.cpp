@@ -4,9 +4,6 @@ public:
         if (dividend == INT_MIN && divisor == -1)
             return INT_MAX;
 
-        if (dividend == INT_MIN && divisor == 1)
-            return INT_MIN;
-
         long long dividend1 = llabs((long long)dividend);
         long long divisor1 = llabs((long long)divisor);
 
