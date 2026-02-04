@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/codeurge123/leetcodePractice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codeurge123/leetcodePractice/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/codeurge123/leetcodePractice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codeurge123/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeurge123/leetcodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/codeurge123/leetcodePractice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/codeurge123/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/codeurge123/leetcodePractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codeurge123/leetcodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
 ## Simulation
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/codeurge123/leetcodePractice/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/codeurge123/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeurge123/leetcodePractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Union-Find
 |  |
