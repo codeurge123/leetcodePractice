@@ -1,23 +1,23 @@
 class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
+
         int prefixSum = 0;
 
-        int count = 0;
         unordered_map<int,int> mp;
-
         mp[0] = 1;
+        int count = 0;
 
         for(int i = 0;i<nums.size();i++) {
             prefixSum += nums[i];
-            long long val = prefixSum%k;
-            // cout<<val<<" ";
+
+            int val = prefixSum % k;
             if(val < 0) {
-                val += k; // ye humm na ess liya kara hai ku ke yaha par hamra negative number hai jiski vajah sa humm normal relationship ka sath nhi chal pa rh hai that is direct comparsion wali to humm yaha par normal relaationship build karna ka leya +k kar rh hai
+                val += k;
             }
             if(mp[val] == 0) {
                 mp[val]++;
-            } 
+            }
             else {
                 count += mp[val];
                 mp[val]++;
