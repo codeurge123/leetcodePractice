@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codeurge123/leetcodePractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codeurge123/leetcodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1200-minimum-absolute-difference](https://github.com/codeurge123/leetcodePractice/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/codeurge123/leetcodePractice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/codeurge123/leetcodePractice/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeurge123/leetcodePractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeurge123/leetcodePractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codeurge123/leetcodePractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codeurge123/leetcodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/codeurge123/leetcodePractice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/codeurge123/leetcodePractice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codeurge123/leetcodePractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/codeurge123/leetcodePractice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/codeurge123/leetcodePractice/tree/master/1390-four-divisors) |
 | [1837-sum-of-digits-in-base-k](https://github.com/codeurge123/leetcodePractice/tree/master/1837-sum-of-digits-in-base-k) |
 | [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codeurge123/leetcodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/codeurge123/leetcodePractice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codeurge123/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/codeurge123/leetcodePractice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
