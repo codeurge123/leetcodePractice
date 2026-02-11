@@ -1,30 +1,27 @@
 class Solution {
 public:
+    int atleast(vector<int>& nums, int k) {
+        int start = 0;
+        int end = 0;
+        long long count = 0;
 
-    int atleast(vector<int> &nums,int k) {
-        int s = 0;
-        int e = 0;
-        int count = 0;
-        int finalcount = 0;
-        while(e < nums.size()) {
-            if(nums[e]%2 != 0) {
+        long long total = 0;
+
+        while (end < nums.size()) {
+            if (nums[end] % 2 != 0) {
                 count++;
-            } 
-
-            while(count == k) {
-                if(nums[s]%2 != 0) {
+            }
+            while (count == k) {
+                if (nums[start] % 2 != 0)
                     count--;
-                }
-                finalcount += nums.size()-e;
-                s++;
+                start++;
+                total += nums.size() - end;
             }
 
-            e++;
-
+            end++;
         }
 
-        return finalcount;
-
+        return total;
     }
 
     int numberOfSubarrays(vector<int>& nums, int k) {
