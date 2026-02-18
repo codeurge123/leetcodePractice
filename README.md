@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codeurge123/leetcodePractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codeurge123/leetcodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codeurge123/leetcodePractice/tree/master/1248-count-number-of-nice-subarrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/codeurge123/leetcodePractice/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/codeurge123/leetcodePractice/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/codeurge123/leetcodePractice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/codeurge123/leetcodePractice/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/codeurge123/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0890-find-and-replace-pattern](https://github.com/codeurge123/leetcodePractice/tree/master/0890-find-and-replace-pattern) |
 | [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/codeurge123/leetcodePractice/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
+| [2351-first-letter-to-appear-twice](https://github.com/codeurge123/leetcodePractice/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
