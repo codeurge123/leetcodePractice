@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/codeurge123/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/codeurge123/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/codeurge123/leetcodePractice/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/codeurge123/leetcodePractice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/codeurge123/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/codeurge123/leetcodePractice/tree/master/0205-isomorphic-strings) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codeurge123/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/codeurge123/leetcodePractice/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/codeurge123/leetcodePractice/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/codeurge123/leetcodePractice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/codeurge123/leetcodePractice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/codeurge123/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0890-find-and-replace-pattern](https://github.com/codeurge123/leetcodePractice/tree/master/0890-find-and-replace-pattern) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codeurge123/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/codeurge123/leetcodePractice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
