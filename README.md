@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeurge123/leetcodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/codeurge123/leetcodePractice/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/codeurge123/leetcodePractice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codeurge123/leetcodePractice/tree/master/0283-move-zeroes) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/codeurge123/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeurge123/leetcodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/codeurge123/leetcodePractice/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/codeurge123/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codeurge123/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codeurge123/leetcodePractice/tree/master/1248-count-number-of-nice-subarrays) |
