@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codeurge123/leetcodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/codeurge123/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/codeurge123/leetcodePractice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/codeurge123/leetcodePractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeurge123/leetcodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/codeurge123/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/codeurge123/leetcodePractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codeurge123/leetcodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/codeurge123/leetcodePractice/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
 ## Simulation
